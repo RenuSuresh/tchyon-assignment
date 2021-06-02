@@ -1,0 +1,5 @@
+.imgPoster {
+  height: 15em;
+  width: 100%;
+  object-fit: contain;
+}
