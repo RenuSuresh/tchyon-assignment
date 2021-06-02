@@ -1,0 +1,23 @@
+.banner {
+  background-color: #daecff;
+  margin: -24px -24px 0px;
+  padding: 25px;
+}
+.banner-discover {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
+.banner-fullWidth {
+  width: 80%;
+  display: inline-block;
+}
+.banner-stepper {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.iconSize {
+  font-size: 2.75em !important;
+  color: #4d4d4d;
+}
