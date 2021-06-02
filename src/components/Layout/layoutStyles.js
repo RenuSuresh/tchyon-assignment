@@ -12,8 +12,9 @@ export const useStyles = makeStyles((theme) => ({
   toolbar: theme.mixins.toolbar,
   content: {
     flexGrow: 1,
-    backgroundColor: theme.palette.background.default,
+    backgroundColor: "#ffffff",
     padding: theme.spacing(3),
+    height: "100vh",
   },
   buttonOnboard: {
     backgroundColor: "#ffc800",
